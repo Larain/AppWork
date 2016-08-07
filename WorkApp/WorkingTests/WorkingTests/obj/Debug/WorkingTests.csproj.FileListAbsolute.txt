@@ -1,0 +1,11 @@
+E:\Work\WorkingTests\WorkingTests\WorkingTests\bin\Debug\WorkingTests.dll
+E:\Work\WorkingTests\WorkingTests\WorkingTests\bin\Debug\WorkingTests.pdb
+E:\Work\WorkingTests\WorkingTests\WorkingTests\obj\Debug\WorkingTests.dll
+E:\Work\WorkingTests\WorkingTests\WorkingTests\obj\Debug\WorkingTests.pdb
+E:\Work\WorkingTests\WorkingTests\WorkingTests\bin\Debug\WorkingLib.dll
+E:\Work\WorkingTests\WorkingTests\WorkingTests\bin\Debug\WorkingLib.pdb
+E:\WorkApp\WorkingTests\WorkingTests\bin\Debug\WorkingTests.dll
+E:\WorkApp\WorkingTests\WorkingTests\bin\Debug\WorkingTests.pdb
+E:\WorkApp\WorkingTests\WorkingTests\obj\Debug\WorkingTests.csprojResolveAssemblyReference.cache
+E:\WorkApp\WorkingTests\WorkingTests\obj\Debug\WorkingTests.dll
+E:\WorkApp\WorkingTests\WorkingTests\obj\Debug\WorkingTests.pdb

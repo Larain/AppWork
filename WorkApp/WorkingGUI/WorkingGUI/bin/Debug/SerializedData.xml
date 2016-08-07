@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHuman xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Human>
+    <Age>21</Age>
+    <Name>Yurs</Name>
+    <Tariff>0.83665563853605607</Tariff>
+  </Human>
+  <Human>
+    <Age>25</Age>
+    <Name>Vova</Name>
+    <Tariff>0.83665563853605607</Tariff>
+  </Human>
+  <Human>
+    <Age>16</Age>
+    <Name>Andrew</Name>
+    <Tariff>0.83665563853605607</Tariff>
+  </Human>
+  <Human>
+    <Age>20</Age>
+    <Name>Yurs</Name>
+    <Tariff>0.83665563853605607</Tariff>
+  </Human>
+</ArrayOfHuman>

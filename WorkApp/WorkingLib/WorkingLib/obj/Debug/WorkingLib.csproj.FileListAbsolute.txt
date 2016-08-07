@@ -1,0 +1,4 @@
+E:\Work\WorkingLib\WorkingLib\WorkingLib\bin\Debug\WorkingLib.dll
+E:\Work\WorkingLib\WorkingLib\WorkingLib\bin\Debug\WorkingLib.pdb
+E:\Work\WorkingLib\WorkingLib\WorkingLib\obj\Debug\WorkingLib.dll
+E:\Work\WorkingLib\WorkingLib\WorkingLib\obj\Debug\WorkingLib.pdb
